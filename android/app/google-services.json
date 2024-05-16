@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309694842906",
+    "project_id": "trade-bazar-89663",
+    "storage_bucket": "trade-bazar-89663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309694842906:android:7b9bf9c72532b4e1cbe9a3",
+        "android_client_info": {
+          "package_name": "com.example.trade_bazar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh4cMjX7HSIRedglbcUX4_C4g2CpWe24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
